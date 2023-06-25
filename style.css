@@ -6,7 +6,6 @@ body {
 
 main {
   width: 626px;
-  height: 486px;
   margin: 64px auto 64px;
 
 }
@@ -36,9 +35,12 @@ h1 span {
   line-height: 22px;
 
   width: 540px;
-  height: 107px;
   margin-left:auto;
   margin-right: auto;  
+}
+
+#p1 {
+  margin-bottom: 32px;
 }
 
 p span, a {
@@ -56,7 +58,7 @@ p span, a {
 }
 
 footer {
-  margin-top: 128px;
+
 }
 
 
